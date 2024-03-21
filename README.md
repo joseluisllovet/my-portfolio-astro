@@ -1,3 +1,22 @@
+# My Personal Portfolio
+
+
+![683shots_so](https://github.com/joseluisllovet/My-Portfolio-Astro/assets/112377220/1e8eb1ee-0f3a-46f5-ba77-81f297d7ff23)
+
+
+
+This is my personal portfolio, where I show some of my projects and share a little about myself and my skills. The website is developed using Astro and Tailwind CSS.
+
+
+## Used technology
+
+**Astro**: Astro is a modern framework for building fast and modern websites using JavaScript.
+
+**Tailwind CSS** - Tailwind CSS is a low-level CSS utility framework that allows you to build custom layouts without having to abandon your HTML.
+
+**HTML**: The standard markup language for creating web pages.
+
+
 # Astro Starter Kit: Basics
 
 ```sh
