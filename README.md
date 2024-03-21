@@ -1,4 +1,4 @@
-# 👋 My Personal Portfolio
+# 👋 Welcome to My Personal Portfolio
 
 
 ![683shots_so](https://github.com/joseluisllovet/My-Portfolio-Astro/assets/112377220/1e8eb1ee-0f3a-46f5-ba77-81f297d7ff23)
@@ -15,6 +15,17 @@ This is my personal portfolio, where I show some of my projects and share a litt
 **Tailwind CSS** - Tailwind CSS is a low-level CSS utility framework that allows you to build custom layouts without having to abandon your HTML.
 
 **HTML**: The standard markup language for creating web pages.
+
+
+## 👆 Features
+
+**About Me**: An introduction to my professional life and motivations.
+
+**Education**: My academic achievements and learning experiences.
+
+**Skill Set**: A showcase of my technical skills and languages I'm fluent in.
+
+**Professional Journey**: An overview of my career milestones and projects.
 
 
 # Astro Starter Kit: Basics
