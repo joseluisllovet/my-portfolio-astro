@@ -1,0 +1,45 @@
+---
+import SocialLogos from './SocialLogos.astro'
+import GitHubIcon from './icons/GitHub.astro'
+
+const PROJECTS = [
+    {
+        title: 'Personal Portfolio',
+        description: 'Developed an interactive web application using Astro and Tailwind. Designed to be a reflective space for personal and professional growth, with a focus on simplicity and minimalism.',
+        image: '/website.webp',
+        link: 'https://github.com/joseluisllovet/My-Portfolio-Astro',
+    },
+    {
+        title: 'Budget App',
+        description: 'Developed an interactive web application using HTML, CSS and JAVASCRIPT that facilitates budget analysis and management. Integrated JavaScript for data manipulation and calculation of operations.',
+        image: '/budget.webp',
+        link: 'https://github.com/joseluisllovet/Budget-App',
+
+    },
+    {
+        title: 'Calculator App',
+        description: 'Developed using HTML, CSS and JavaScript, it is a web application that allows users to perform basic mathematical operations, such as addition, subtraction, multiplication and division, using an intuitive user interface.',
+        image: '/calculator.webp',
+        link: 'https://github.com/joseluisllovet/Calculator-App',
+
+    }
+]
+---
+
+{
+    PROJECTS.map(({ image, title, description, link }) => (
+        <article>
+            <h3 class="text-2xl font-semibold text-yellow-200/90 mb-3">{title}</h3>
+            <p class="mb-5 text-lg font-normal text-gray-200 text-pretty">{description}</p>
+            <ul>
+                <nav class="flex gap-4 pb-7 flex-wrap">
+                    <SocialLogos href={link}>
+                        <GitHubIcon class="size-4 lg:size-5" />
+                        <span>Github</span>
+                    </SocialLogos>
+                </nav>
+            </ul>
+            <img class="rounded shadow-xl shadow-white/10 mb-20" src={image} alt={`Screenshot of project ${image}`} />
+        </article>
+    ))
+}
