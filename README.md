@@ -1,3 +1,45 @@
+# 👋 Welcome to My Personal Portfolio
+
+
+![683shots_so](https://github.com/joseluisllovet/My-Portfolio-Astro/assets/112377220/1e8eb1ee-0f3a-46f5-ba77-81f297d7ff23)
+
+
+
+This is my personal portfolio, where I show some of my projects and share a little about myself and my skills. The website is developed using Astro and Tailwind CSS.
+
+
+## 🔥 Used technology
+
+**Astro**: Astro is a modern framework for building fast and modern websites using JavaScript.
+
+**Tailwind CSS** - Tailwind CSS is a low-level CSS utility framework that allows you to build custom layouts without having to abandon your HTML.
+
+**HTML**: The standard markup language for creating web pages.
+
+
+## 👆 Features
+
+**About Me**: An introduction to my professional life and motivations.
+
+**Education**: My academic achievements and learning experiences.
+
+**Skill Set**: A showcase of my technical skills and languages I'm fluent in.
+
+**Professional Journey**: An overview of my career milestones and projects.
+
+
+## 🙏Contributions
+
+Suggestions and improvements are always welcome. Feel free to fork the repository, submit pull requests, or leave feedback through issues.
+
+
+## 💬 Connect
+
+Reach out to me via LinkedIn or GitHub, accessible through the icons on my site, or raise an issue here.
+
+Thanks for dropping by, and I hope you find my portfolio insightful!
+
+
 # Astro Starter Kit: Basics
 
 ```sh
@@ -48,7 +90,3 @@ All commands are run from the root of the project, from a terminal:
 | `npm run preview`         | Preview your build locally, before deploying     |
 | `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
