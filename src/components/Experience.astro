@@ -1,6 +1,6 @@
 ---
 import ExperienceItem from './ExperienceItem.astro'
-const Experience = [
+const EXPERIENCE = [
     {
         date: 'Sep 2022 - May 2023',
         title: 'Web Designer Wordpress - BORRADS.COM - Remote',
@@ -18,7 +18,7 @@ const Experience = [
 <ol class="relative border-s border-gray-200 ml-3">   
 
     {
-        Experience.map((experience) => (
+        EXPERIENCE.map((experience) => (
           <li class="mb-10 ms-4">
             <ExperienceItem {...experience} />
           </li>
