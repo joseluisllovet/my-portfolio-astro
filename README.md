@@ -1,7 +1,7 @@
 # 👋 Welcome to My Personal Portfolio
 
 
-![683shots_so](https://github.com/joseluisllovet/My-Portfolio-Astro/assets/112377220/1e8eb1ee-0f3a-46f5-ba77-81f297d7ff23)
+![Portfolio](https://github.com/joseluisllovet/My-Portfolio-Astro/assets/112377220/fcedc47a-ba26-4587-84d6-472ccde1bc27)
 
 
 
